@@ -1,0 +1,4 @@
+﻿  MoveImageDesktop.cpp
+C:\Users\zaben\Desktop\5сем\ОСиСП\1\MoveImage\MoveImageDesktop.cpp(130,33): warning C4244: инициализация: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\Users\zaben\Desktop\5сем\ОСиСП\1\MoveImage\MoveImageDesktop.cpp(131,33): warning C4244: инициализация: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+  MoveImage.vcxproj -> C:\Users\zaben\Desktop\5сем\ОСиСП\1\MoveImage\Debug\MoveImage.exe
